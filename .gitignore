@@ -25,3 +25,13 @@ proguard/
 
 # Log Files
 *.log
+
+.idea/
+.iml
+.ipr
+.iws
+out/
+gen/
+.idea_modules/
+build/
+
